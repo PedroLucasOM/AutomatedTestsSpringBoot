@@ -1,5 +1,5 @@
 <h1 align="center">
-  StarWars Planet API (sw-planet-api)
+  AutomatedTestsSpringBoot
 </h1>
 
 <p align="center">
@@ -31,7 +31,7 @@
 
 ## 💻 Projeto
 
-sw-planet-api é um serviço web que provê dados sobre a franquia de Star Wars, mais especificamente sobre os planetas que aparecem nos filmes.
+Esse projeto tem como objetivo demontrar o uso dos testes automatizados (unidade, integração e subcutâneos) através do consume de uma API Spring Boot que provê serviços de manipulação de planetas da franquia Start Wars.
 
 Esse projeto foi elaborado durante o curso [Testes automatizados na prática com Spring Boot](https://www.udemy.com/course/testes-automatizados-na-pratica-com-spring-boot/?referralCode=7F6C5AA14AE558497FE0), em que o foco foi a criação de testes automatizados.
 
